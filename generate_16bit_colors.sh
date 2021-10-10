@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# requires imagemagick package
+
 dirname=colors_16bit
 mkdir $dirname
 
